@@ -1,24 +1,26 @@
-                                                           Hi 👋, WELCOME TO THIS HUB
+                                                           HELLO 👋, READ & HAVE FUN (DON'T FORGET TO SAY HI)
  
       /* About Me */
       
       Name: Steve Muendo
       Email: muendostephen2019@gmail.com
-      Phone: +254720891886 | +12148983876
+      Phone: +12148983876
       
       Who I am:
-        . Passionate coder
+        . FULLSTACK DEV
         . Linux Enthusiast
 
       Tech Stack:
-         . Html
-         . CSS
+         . Typescript
+         . React
+         . Tailwind
          . Core Js
-         . PHP 
+         . PHP- Laravel 
          . Mysql
          . C/C++
          . Java
          . Kotlin
+         . Flutter
 
        Operating Systems:
          . Windows
@@ -27,5 +29,3 @@
         
       Learning: 
          . Django
-         . Learning Laravel
-         . Polishing my current stack
